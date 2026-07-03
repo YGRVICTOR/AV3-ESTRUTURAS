@@ -9,7 +9,7 @@ André luiz maximiano
 Paulo henrique Leal 
 Victor da Cunha Oliveira
 
-| TEMAS | NOME DO PROJETO | RESPONSAVEL |
+| TEMAS        | NOME DO PROJETO|  RESPONSAVEL  |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
