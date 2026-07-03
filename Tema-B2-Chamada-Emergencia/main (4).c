@@ -257,7 +257,7 @@ void carregarCSV() {
 
 void pausarTela() {
     printf("\n(voltando ao menu...)\n");
-    sleep(3); // espera 2 segundos pode aumentar se achar pouco tempo
+    sleep(3); // espera 3 segundos pode aumentar se achar pouco tempo
     system("clear"); 
     
 }
