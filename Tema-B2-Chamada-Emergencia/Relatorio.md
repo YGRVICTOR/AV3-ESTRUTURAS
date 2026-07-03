@@ -20,7 +20,7 @@
 Escolhi esse tema principalmente por ser algo bem direto e estar mais proximos do meu
 conhecimento em pilhas, todo conceito de lifo que ja estou familiarizado.
 
-#FEEDBACK PARA PROFESSOR
+# FEEDBACK PARA PROFESSOR
 
 professor so queria informar q estou ciente dos prazos apertados e a questão de não ter aula e tal, 
 contudo um trabalho dessa magnitude é inviável limitar apenas 10 minutos por video, acaba gerando 
