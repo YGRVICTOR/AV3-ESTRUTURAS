@@ -9,7 +9,7 @@ André luiz maximiano
 Paulo henrique Leal 
 Victor da Cunha Oliveira
 
-| TEMAS| NOME DO PROJETO       |     RESPONSAVEL         |
+| TEMAS| NOME DO PROJETO       | RESPONSAVEL             |
 | :--- |     :---:             |          ---:           |
 | A1   | Playlist de Músicas   | Paulo Henrique Leal     |
 | B2   | Chamadas de Emergência| Victor da Cunha Oliveira|
