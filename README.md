@@ -1,6 +1,15 @@
-# AV3-ESTRUTURAS
+#Estrutura de Dados — AV3
+Avaliação 3 (AV3) da disciplina de Estrutura de Dados do curso de Ciência da Computação — UNIJORGE, Turma A.
 
-trabalho requisitado pelo professor NIRTON AFONSO DE OLIVEIRA FILHO
-grupo formado por: ANDRE LUIZ MAXIMIANO DOS SANTOS JUNIOR, PAULO HENRIQUE LEAL AZEVEDO, VICTOR CUNHA OLIVEIRA
+Cada projeto foi dividido e possui sua propria pasta com seu readme, todos os projetos foram testados e compilados 
+visando garantir a integridade do projeto
 
-dividimos as funções para cada um fazer um dos 3 trabalhos requisitados 
+#Equipe
+André luiz maximiano
+Paulo henrique Leal 
+Victor da Cunha Oliveira
+
+|TEMAS| Nome do projeto| Responsavel|
+| :--- | :--- |
+| Linha 1, Dado A | Linha 1, Dado B |
+| Linha 2, Dado A | Linha 2, Dado B |
