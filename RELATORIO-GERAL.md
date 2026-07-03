@@ -19,8 +19,12 @@ além de se unirem para formular as falas para a gravação do video afim de pas
 
 Cada integrante analisou o enunciado da tarefa sob sua responsabilidade, elaborou a lógica do programa e realizou sua implementação em linguagem C. Em seguida, foram feitos testes para verificar o funcionamento correto dos algoritmos e corrigir possíveis erros.
 Após a finalização dos três programas, o grupo reuniu os códigos em um único projeto e revisou a documentação antes da entrega.
-* trabalho A: foi escolhido o tema da playlist de musica, 
 
+* trabalho A: foi escolhido o tema da playlist de musica, permite cadastrar, buscar, editar, excluir e listar músicas em uma playlist, através de um menu interativo no terminal.
+
+*Trabalho B: foi escolhido o tema de chamada de emergencia, utiliza estrutura de dados pilha, onde Cada chamada de emergência é armazenada como um nó em uma lista encadeada. O topo da pilha é sempre a chamada mais recente.
+
+*Trabalho C: simula um sistema de atendimento bancário com senhas normais e preferenciais, implementado em C usando alocação dinâmica e listas encadeadas. A cada chamada, o sistema segue a proporção 2 senhas normais para 1 preferencial.
 
 ## Resultados
 
