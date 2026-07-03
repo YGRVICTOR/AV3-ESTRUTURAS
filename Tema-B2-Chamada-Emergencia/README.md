@@ -1,8 +1,11 @@
 # Central de Chamadas de Emergência — Pilha (LIFO)
+Trabalho avaliativo para av3 de estrutura de dados da instituição Unijorge
+Curso: Ciencia da computação
+Turma: A
+
+**Responsavel pelo projeto:** Victor da Cunha Oliveira
 
 Simulação de uma central de chamadas de emergência usando a estrutura de dados **Pilha**, implementada com **lista encadeada** e alocação dinâmica de memória (`malloc`/`free`).
-
-A lógica segue o comportamento LIFO (*Last In, First Out*): **a última chamada registrada é a primeira a ser atendida**.
 
 ## 📋 Descrição
 
@@ -77,11 +80,4 @@ Atender        -> remove protocolo 1002
 Atender        -> remove protocolo 1001
 ```
 
-## 🖥️ Requisitos
 
-- Compilador C compatível com o padrão **C99**
-- Sistema operacional Linux/macOS (usa `system("clear")` para limpar o terminal — em Windows, trocar por `system("cls")`)
-
-## 👥 Autores
-
-Trabalho acadêmico — Estrutura de Dados (Pilha).
