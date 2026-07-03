@@ -24,6 +24,11 @@
   Escolhi esse tema principalmente por ser algo bem direto e estar mais proximos do meu
   conhecimento em pilhas, todo conceito de lifo que ja estou familiarizado.
 
+
+  # Problemas
+  Infelizmente não consegui executar nenhuma dos ambientes recomendados pelo professor acabava dando tela azul 
+  por algum motivo, então tive q fazer tudo pelo gdb.
+
 # FEEDBACK PARA PROFESSOR
 
   professor so queria informar q estou ciente dos prazos apertados e a questão de não ter aula e tal, 
@@ -35,3 +40,5 @@
 
   **sobre relatorios e as pastas** cada pasta foi feita separademente por cada integrante, 
   seja o codigo ou o proprio readme do projeto
+
+
