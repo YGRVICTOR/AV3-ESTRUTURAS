@@ -8,11 +8,11 @@
 * Paulo henrique Leal 
 * Victor da Cunha Oliveira
 
-| TEMAS| NOME DO PROJETO       |     RESPONSAVEL         |
-| :--- |     :---:             |------------------------:|
-| A1   | Playlist de Músicas   | Paulo Henrique Leal     |
-| B2   | Chamadas de Emergência| Victor da Cunha Oliveira|
-| C2   | Fila de Impressão     | André Luiz Maximiano    |
+| Temas | Projetos | Responsável | Pasta |
+|------|---------|-------------|-------|
+| A1 | Playlist de Músicas | Paulo Henrique Leal | [`Tema-A1-Playlist//`](Tema-A1-Playlist//) |
+| B2 | Chamadas de Emergência | Victor da Cunha Oliveira | [`Tema-B2-Chamada-Emergencia/`](Tema-B2-Chamada-Emergencia/) |
+| C1 | Atendimento Bancario | André Luis Maximiano | [`Tema-C1-ATENDIMENTOBANCARIO/`](Tema-C1-ATENDIMENTOBANCARIO/) |
 
 **Cada projeto foi dividido e possui sua propria pasta com seu readme, todos os projetos foram testados e compilados 
 visando garantir a integridade do projeto**
