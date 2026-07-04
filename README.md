@@ -1,9 +1,12 @@
 # Estrutura de Dados — AV3
 **Avaliação 3 (AV3) da disciplina de Estrutura de Dados do curso de Ciência da Computação — UNIJORGE**
-* Turma: **A**
+
+**LINK DO VIDEO DO YOUTUBE:** https://youtu.be/gjgaC4KilYA?si=fTgDGNVmso5VoBsT
 
 
 # Equipe
+* Curso: Ciencia da computação 
+* Turma: **A**
 * André luiz maximiano
 * Paulo henrique Leal 
 * Victor da Cunha Oliveira
